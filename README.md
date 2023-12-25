@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AT-ella
+- 👋 Hi, I’m @Abdalov_Timur
 - 👀 I’m interested in finance               
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on ...
